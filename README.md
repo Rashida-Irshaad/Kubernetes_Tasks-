@@ -16,7 +16,7 @@ Each task has its own folder with:
 | # | Task | Folder | Status |
 |---|------|--------|--------|
 | 01 | Deploy Pods in Kubernetes Cluster | [01-deploy-pods](kubernetes/01-deploy-pods) | Done |
-| 02 | Deploy Applications with Kubernetes Deployments | [02-deployments](kubernetes/02-deployments) | Done |
+| 02 | Deploy Applications with Kubernetes Deployments | [02-deployments](kubernetes/01-pod-httpd) | Done |
 | 03 | Setup Kubernetes Namespaces and PODs | 03-namespaces-and-pods | Pending |
 | 04 | Set Resource Limits in Kubernetes Pods | 04-resource-limits | Pending |
 | 05 | Execute Rolling Updates in Kubernetes | 05-rolling-updates | Pending |
